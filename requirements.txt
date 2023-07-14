@@ -1,4 +1,4 @@
-﻿altair==5.0.1
+altair==5.0.1
 annotated-types==0.5.0
 attrs==23.1.0
 blinker==1.6.2
@@ -77,8 +77,8 @@ tzdata==2023.3
 tzlocal==4.3.1
 urllib3==2.0.3
 validators==0.20.0
-visions==0.7.5
+visions==0.7.4
 watchdog==3.0.0
 wordcloud==1.9.2
-ydata-profiling
+ydata-profiling==4.3.1
 zipp==3.16.1
